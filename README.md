@@ -78,7 +78,7 @@ The following image series demonstrates the appearance and functionality of the 
 
 * OpenWeather API: https://openweathermap.org/forecast5
 
-* Trails API: https://rapidapi.com/trailapi/api/trailapi
+* Trail API: https://rapidapi.com/trailapi/api/trailapi
 
 
 ## Developing Contributors
